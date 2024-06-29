@@ -167,6 +167,3 @@ scene.setBackgroundImage(img`
     `)
 current_level = 0
 start_level()
-forever(function () {
-	
-})
